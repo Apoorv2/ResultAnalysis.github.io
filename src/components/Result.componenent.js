@@ -93,7 +93,7 @@ render() {
           <Link to="/chart"  className="nav-link">Show Result in Bar</Link>
           <Link to="/chart2"  className="nav-link">Show Result in Pie chart</Link>
           <Link to="/chart3"  className="nav-link">Show Result in Doughnut chart</Link>
-          <Link to="/chart4"  className="nav-link">Show Result in PolarArea chart</Link>
+          <Link to="/chart4"  className="nav-link">Show Result in Radar chart</Link>
         </div>
       </form>
     </div>
